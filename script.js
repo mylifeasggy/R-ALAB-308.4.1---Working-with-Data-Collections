@@ -105,4 +105,4 @@ console.log(totalAge)
 
 let aVerage = totalAge/newTable.length; 
 
-console.log(aVerage)
+console.log(`The average age is ${aVerage}`)
