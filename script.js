@@ -96,7 +96,7 @@ let totalAge = 0;
 
 for(i =0 ; i < newTable.length; i++){
 
-      totalAge+=+(newTable[i].age);
+      totalAge+=(newTable[i].age)*1;
    
       }
 
